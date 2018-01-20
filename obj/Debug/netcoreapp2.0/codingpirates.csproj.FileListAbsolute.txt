@@ -1,0 +1,12 @@
+/home/sunenilausen/Documents/dotnet/codingpirates/bin/Debug/netcoreapp2.0/app.db
+/home/sunenilausen/Documents/dotnet/codingpirates/bin/Debug/netcoreapp2.0/codingpirates.deps.json
+/home/sunenilausen/Documents/dotnet/codingpirates/bin/Debug/netcoreapp2.0/codingpirates.runtimeconfig.json
+/home/sunenilausen/Documents/dotnet/codingpirates/bin/Debug/netcoreapp2.0/codingpirates.runtimeconfig.dev.json
+/home/sunenilausen/Documents/dotnet/codingpirates/bin/Debug/netcoreapp2.0/codingpirates.dll
+/home/sunenilausen/Documents/dotnet/codingpirates/bin/Debug/netcoreapp2.0/codingpirates.pdb
+/home/sunenilausen/Documents/dotnet/codingpirates/obj/Debug/netcoreapp2.0/codingpirates.csproj.CoreCompileInputs.cache
+/home/sunenilausen/Documents/dotnet/codingpirates/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/sunenilausen/Documents/dotnet/codingpirates/obj/Debug/netcoreapp2.0/codingpirates.AssemblyInfoInputs.cache
+/home/sunenilausen/Documents/dotnet/codingpirates/obj/Debug/netcoreapp2.0/codingpirates.AssemblyInfo.cs
+/home/sunenilausen/Documents/dotnet/codingpirates/obj/Debug/netcoreapp2.0/codingpirates.dll
+/home/sunenilausen/Documents/dotnet/codingpirates/obj/Debug/netcoreapp2.0/codingpirates.pdb

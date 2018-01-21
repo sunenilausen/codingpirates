@@ -3,5 +3,20 @@
   "private": true,
   "dependencies": {
     "bootstrap": "4.0.0"
-  }
+  },
+  "directory": "wwwroot/lib",
+  "authors": [
+    "Sune Nilausen <sunenilausen@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
